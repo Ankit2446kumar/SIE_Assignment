@@ -1,0 +1,17 @@
+# Ignore Visual Studio workspace and build files
+
+.vs/
+bin/
+obj/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore NuGet package folders
+packages/
+
+# Other common ignores for Visual Studio projects
+*.log
+*.vspscc
+*.vssscc
