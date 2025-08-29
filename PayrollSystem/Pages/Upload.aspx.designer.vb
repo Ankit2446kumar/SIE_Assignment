@@ -41,6 +41,15 @@ Partial Public Class Upload
     Protected WithEvents btnUploadCSV As Global.System.Web.UI.WebControls.Button
 
     '''<summary>
+    '''lblEId control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents lblEId As Global.System.Web.UI.WebControls.Label
+
+    '''<summary>
     '''txtId control.
     '''</summary>
     '''<remarks>
@@ -48,6 +57,15 @@ Partial Public Class Upload
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents txtId As Global.System.Web.UI.WebControls.TextBox
+
+    '''<summary>
+    '''lblName control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents lblName As Global.System.Web.UI.WebControls.Label
 
     '''<summary>
     '''txtName control.
@@ -59,6 +77,15 @@ Partial Public Class Upload
     Protected WithEvents txtName As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
+    '''lblDesignation control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents lblDesignation As Global.System.Web.UI.WebControls.Label
+
+    '''<summary>
     '''txtDesignation control.
     '''</summary>
     '''<remarks>
@@ -66,6 +93,15 @@ Partial Public Class Upload
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents txtDesignation As Global.System.Web.UI.WebControls.TextBox
+
+    '''<summary>
+    '''lblBasicSalary control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents lblBasicSalary As Global.System.Web.UI.WebControls.Label
 
     '''<summary>
     '''txtBasicSalary control.
@@ -77,6 +113,15 @@ Partial Public Class Upload
     Protected WithEvents txtBasicSalary As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
+    '''lblLeaves control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents lblLeaves As Global.System.Web.UI.WebControls.Label
+
+    '''<summary>
     '''txtLeaves control.
     '''</summary>
     '''<remarks>
@@ -84,6 +129,15 @@ Partial Public Class Upload
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents txtLeaves As Global.System.Web.UI.WebControls.TextBox
+
+    '''<summary>
+    '''lblWorkingDays control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents lblWorkingDays As Global.System.Web.UI.WebControls.Label
 
     '''<summary>
     '''txtWorkingDays control.
@@ -95,6 +149,24 @@ Partial Public Class Upload
     Protected WithEvents txtWorkingDays As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
+    '''lblError control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents lblError As Global.System.Web.UI.WebControls.Label
+
+    '''<summary>
+    '''hdnSelectedEmployeeId control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents hdnSelectedEmployeeId As Global.System.Web.UI.WebControls.HiddenField
+
+    '''<summary>
     '''btnAddEmployee control.
     '''</summary>
     '''<remarks>
@@ -104,13 +176,58 @@ Partial Public Class Upload
     Protected WithEvents btnAddEmployee As Global.System.Web.UI.WebControls.Button
 
     '''<summary>
-    '''btnGoToProcess control.
+    '''btnUpdateEmployee control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents btnGoToProcess As Global.System.Web.UI.WebControls.Button
+    Protected WithEvents btnUpdateEmployee As Global.System.Web.UI.WebControls.Button
+
+    '''<summary>
+    '''btnClearForm control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents btnClearForm As Global.System.Web.UI.WebControls.Button
+
+    '''<summary>
+    '''btnGoToReport control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents btnGoToReport As Global.System.Web.UI.WebControls.Button
+
+    '''<summary>
+    '''txtSearch control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents txtSearch As Global.System.Web.UI.WebControls.TextBox
+
+    '''<summary>
+    '''btnSearch control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents btnSearch As Global.System.Web.UI.WebControls.Button
+
+    '''<summary>
+    '''btnClearSearch control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents btnClearSearch As Global.System.Web.UI.WebControls.Button
 
     '''<summary>
     '''gvEmployees control.

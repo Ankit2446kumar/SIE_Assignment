@@ -1,12 +1,16 @@
-﻿Namespace PayrollSystem
-    Public Class PayrollCalculator
-        Public Shared Function CalculateNetPay(emp As Employee) As Decimal
-            Dim allowance = emp.BasicSalary * 0.2D
-            Dim grossSalary = emp.BasicSalary + allowance
-            Dim deduction = (emp.LeavesTaken * emp.BasicSalary) / emp.WorkingDaysInMonth
-            Dim netPay = grossSalary - deduction
-            Return Math.Round(netPay, 2)
-        End Function
-    End Class
-End Namespace
+﻿Imports System.ComponentModel.DataAnnotations
+
+Public Class PayrollReportView
+    'Public Property Id As String
+    Public Property Employee_Id As String
+    Public Property Employee_Name As String
+    Public Property Employee_Designation As String
+    Public Property Basic_Salary As Decimal
+    Public Property Allowance As Decimal
+    Public Property Gross_Salary As Decimal
+    Public Property Deduction As Decimal
+    Public Property NetPay As Decimal
+End Class
+
+
 

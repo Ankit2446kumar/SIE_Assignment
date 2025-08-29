@@ -1,0 +1,107 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ankit.Kumar\\Desktop\\PayrollSystem\\PayrollSystem.Tests\\PayrollSystem.Tests.vbproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ankit.Kumar\\Desktop\\PayrollSystem\\PayrollSystem.Tests\\PayrollSystem.Tests.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ankit.Kumar\\Desktop\\PayrollSystem\\PayrollSystem.Tests\\PayrollSystem.Tests.vbproj",
+        "projectName": "PayrollSystem.Tests",
+        "projectPath": "C:\\Users\\Ankit.Kumar\\Desktop\\PayrollSystem\\PayrollSystem.Tests\\PayrollSystem.Tests.vbproj",
+        "packagesPath": "C:\\Users\\Ankit.Kumar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ankit.Kumar\\Desktop\\PayrollSystem\\PayrollSystem.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ankit.Kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net4.7.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net4.7.2",
+            "projectReferences": {
+              "C:\\Users\\Ankit.Kumar\\Desktop\\PayrollSystem\\PayrollSystem\\PayrollSystem.vbproj": {
+                "projectPath": "C:\\Users\\Ankit.Kumar\\Desktop\\PayrollSystem\\PayrollSystem\\PayrollSystem.vbproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net4.7.2",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.5.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.14.0, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.9.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ankit.Kumar\\Desktop\\PayrollSystem\\PayrollSystem\\PayrollSystem.vbproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ankit.Kumar\\Desktop\\PayrollSystem\\PayrollSystem\\PayrollSystem.vbproj",
+        "projectName": "PayrollSystem",
+        "projectPath": "C:\\Users\\Ankit.Kumar\\Desktop\\PayrollSystem\\PayrollSystem\\PayrollSystem.vbproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

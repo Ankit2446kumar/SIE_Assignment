@@ -82,6 +82,42 @@ Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
+<member name="F:PayrollSystem.Report._btnHome">
+<summary>
+btnHome control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PayrollSystem.Report._txtSearch">
+<summary>
+txtSearch control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PayrollSystem.Report._btnSearch">
+<summary>
+btnSearch control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PayrollSystem.Report._btnClearSearch">
+<summary>
+btnClearSearch control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
 <member name="F:PayrollSystem.Report._gvReport">
 <summary>
 gvReport control.
@@ -127,9 +163,27 @@ Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
+<member name="F:PayrollSystem.Upload._lblEId">
+<summary>
+lblEId control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
 <member name="F:PayrollSystem.Upload._txtId">
 <summary>
 txtId control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PayrollSystem.Upload._lblName">
+<summary>
+lblName control.
 </summary>
 <remarks>
 Auto-generated field.
@@ -145,9 +199,27 @@ Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
+<member name="F:PayrollSystem.Upload._lblDesignation">
+<summary>
+lblDesignation control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
 <member name="F:PayrollSystem.Upload._txtDesignation">
 <summary>
 txtDesignation control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PayrollSystem.Upload._lblBasicSalary">
+<summary>
+lblBasicSalary control.
 </summary>
 <remarks>
 Auto-generated field.
@@ -163,9 +235,27 @@ Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
+<member name="F:PayrollSystem.Upload._lblLeaves">
+<summary>
+lblLeaves control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
 <member name="F:PayrollSystem.Upload._txtLeaves">
 <summary>
 txtLeaves control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PayrollSystem.Upload._lblWorkingDays">
+<summary>
+lblWorkingDays control.
 </summary>
 <remarks>
 Auto-generated field.
@@ -181,6 +271,24 @@ Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
+<member name="F:PayrollSystem.Upload._lblError">
+<summary>
+lblError control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PayrollSystem.Upload._hdnSelectedEmployeeId">
+<summary>
+hdnSelectedEmployeeId control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
 <member name="F:PayrollSystem.Upload._btnAddEmployee">
 <summary>
 btnAddEmployee control.
@@ -190,9 +298,54 @@ Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
-<member name="F:PayrollSystem.Upload._btnGoToProcess">
+<member name="F:PayrollSystem.Upload._btnUpdateEmployee">
 <summary>
-btnGoToProcess control.
+btnUpdateEmployee control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PayrollSystem.Upload._btnClearForm">
+<summary>
+btnClearForm control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PayrollSystem.Upload._btnGoToReport">
+<summary>
+btnGoToReport control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PayrollSystem.Upload._txtSearch">
+<summary>
+txtSearch control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PayrollSystem.Upload._btnSearch">
+<summary>
+btnSearch control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:PayrollSystem.Upload._btnClearSearch">
+<summary>
+btnClearSearch control.
 </summary>
 <remarks>
 Auto-generated field.
